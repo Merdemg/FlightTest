@@ -5,6 +5,7 @@
 !.gitignore
 !/Config/
 !/Content/
+!/Source/
 !.uproject
 
 
